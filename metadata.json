@@ -1,0 +1,5 @@
+{
+  "name": "PathFinder AI",
+  "description": "An intelligent AI Career Path Recommender that analyzes your skills and interests to generate personalized career roadmaps, project ideas, and salary insights.",
+  "requestFramePermissions": []
+}
